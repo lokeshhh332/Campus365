@@ -1,0 +1,6 @@
+{
+  "name": "College ERP System",
+  "description": "A comprehensive college management portal for tracking Student Attendance, Academic Marks, and Fee Payments (INR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
